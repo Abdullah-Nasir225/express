@@ -88,5 +88,5 @@ you work on a windows machine:
 None of those problems breaks the usability of AlphaLemon CMS. If you are a windows user and you want
 to fix them on your own, fork the repository, do the fixes then ask for a pull request: it would be really
 appreciated! :)
-
+Hello this is me!
 Enjoy!
